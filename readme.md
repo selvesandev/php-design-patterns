@@ -33,4 +33,5 @@ $db = Database::getInstance();
 $obj = Database::getInstance();
 var_dump($db);//object(Database)#1 (0) { }
 var_dump($obj);//object(Database)#1 (0) { }
+
 ```
