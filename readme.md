@@ -79,3 +79,6 @@ There are two possible benefits to building your code this way
 *  if creating the object is a complicated job you can do all of the work in the factory, instead of repeating it every time you want to create a new instance.
   
 Using the factory pattern isn’t always necessary (or wise). The example code used here is so simple that a factory would simply be adding unneeded complexity.
+
+
+## Facade Pattern
